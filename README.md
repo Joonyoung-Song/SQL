@@ -1,4 +1,3 @@
 # SQL
-ORACLE / MySQL
-
-sql 기초지식 및 기본 source
+ORACLE / MySQL 쿼리 수록
+SQLD 취득
